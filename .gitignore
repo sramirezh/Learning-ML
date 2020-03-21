@@ -2,6 +2,7 @@
 *
 *.gsd
 # But not these files...
+!*.pdf
 !*.qsub
 !.gitignore
 !*.lmp
