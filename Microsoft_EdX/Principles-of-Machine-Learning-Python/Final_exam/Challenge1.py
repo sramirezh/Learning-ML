@@ -85,4 +85,6 @@ is_buyer = Demographics['Bikebuyer'] == 1
 
 Demographics_buyers = Demographics[is_buyer]
 
-
+cat_cols = [x  for x in Demographics.columns if pd.api.types.is_string_dtype(Demographics[x])]
+#is_buyer = Demographics['Bikebuyer'] == 1
+#count = [count + 1 for x in auto_prices[col] if x == '?']
