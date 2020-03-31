@@ -14,6 +14,7 @@ import math
 
 
 AveMonthSpend = pd.read_csv('AW_AveMonthSpend.csv')
+Test = pd.read_csv('TestSet.csv')
 BikeBuyer = pd.read_csv('AW_BikeBuyer.csv')
 print(AveMonthSpend.shape)
 print(AveMonthSpend.CustomerID.unique().shape)
