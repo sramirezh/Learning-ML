@@ -49,6 +49,19 @@ Curso dictado por Sebastian Sanchez y Juan David Botero
   - <a href="#concom"> 2.10. Concatenación y combinación de dataframes</a><br>
 - <a href="#tallpan">3. Taller Pandas</a><br>
 
-
-
+## Sesion 4: Preprocesado de datos
+- <a href="#misdat">1. Procesamiento de datos nulos II</a><br>
+ - <a href="#ignorarFila">1.1  Ignorar fila de datos</a><br>
+ - <a href="#valVec">1.2 Llenado con valores vecinos</a><br>
+ - <a href="#valSKL">1.3 Llenado de datos usando sklearn</a><br>
+ - <a href="#valMod">1.4 Llenado con modelado</a><br>
+- <a href="#example"> Ejemplo de preprocesado de datos</a><br>
+- <a href="#catvar">2. Manipulación de variables categóricas</a><br>
+ - <a href="#opevec">2.1. Operaciones vectorizadas con `strings`</a><br>
+ - <a href="#varord">2.2. Variables ordinales: Codificación de enteros</a><br>
+ - <a href="#varnom">2.3. Variables nominales: Condificación one-hot (dummy variables)</a><br>
+- <a href="#groupby">3. Groupby </a><br>
+ - <a href="#trafil">3.1. Funciones ` transform`  y ` filter` </a><br>
+ - <a href="#cladiv">3.2. Especificando la clave para la división del DataFrame  </a><br>
+ - <a href="#tabdin">3.3. Tablas dinámicas  </a><br>
 
