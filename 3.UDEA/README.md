@@ -65,3 +65,15 @@ Curso dictado por Sebastian Sanchez y Juan David Botero
  - <a href="#cladiv">3.2. Especificando la clave para la división del DataFrame  </a><br>
  - <a href="#tabdin">3.3. Tablas dinámicas  </a><br>
 
+## Sesion 5: Analisis exploratorio
+
+- <a href="#intro">1. Introducción</a><br>
+- <a href="#eStat">2. Estadística descriptiva.</a><br>
+    - <a href="#des_count">2.1. Métodos <code>.describe()</code> y <code>count_values()</code>.</a><br>
+    - <a href="#bPlot">2.2. Box Plots.</a><br>
+    - <a href="#sPlot">2.3. Scatter Plots.</a><br>
+    - <a href="#hmaps">2.1. Groupby y Heatmaps.</a><br>
+- <a href=#corr> 3. Correlación
+- <a href="#anova"> 4. Análisis de varianzas (ANOVA).  
+  - <a href="#modelado">4.1. ANOVA para creación de modelos.</a><br>
+  - <a href="#Reducción dimensional">4.2. ANOVA para la reducción dimensional.</a><br>
