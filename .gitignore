@@ -21,3 +21,4 @@
 !*.yml
 # ...even if they are in subdirectories
 !*/
+workshop-python-ml
