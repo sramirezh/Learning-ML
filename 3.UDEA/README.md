@@ -101,3 +101,9 @@ Curso dictado por Sebastian Sanchez y Juan David Botero
     - <a href="#ridge">4.3.1 Regresión lineal Ridge</a><br>
     - <a href="#lasso">4.3.2 Regresión lineal Lasso</a><br>
 - <a href="#taller">5. Taller</a><br>
+
+## Sesion 7: Metricas, Regresiones and Support Vector Machines (SVMs)
+- <a href="#met">1. Métricas</a><br>
+- <a href="#regpol">2. Regresión polinómica y no lineal</a><br>
+- <a href="#redela">3. Redes elásticas</a><br>
+- <a href="#svm">4. Máquinas de soporte vectorial</a><br>
