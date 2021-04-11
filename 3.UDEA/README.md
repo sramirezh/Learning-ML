@@ -77,3 +77,27 @@ Curso dictado por Sebastian Sanchez y Juan David Botero
 - <a href="#anova"> 4. Análisis de varianzas (ANOVA).  
   - <a href="#modelado">4.1. ANOVA para creación de modelos.</a><br>
   - <a href="#Reducción dimensional">4.2. ANOVA para la reducción dimensional.</a><br>
+
+## Sesion 6: Introduccion a Machine Learning
+- <a href="#anova2">1. ANOVA II</a><br>
+  - <a href="#intro">1.1. Introducción</a><br> 
+  - <a href="#oneway">1.2. One-way ANOVA varios grupos</a><br>
+- <a href="#ML">2. Modelos basados en datos y Machine Learning</a><br>
+  - <a href="#modelML">2.1. Modelos que se pueden construir</code></a><br>
+  - <a href="#terms">2.2. Terminología</code></a><br>
+  - <a href="#supML">2.3. Aprendizaje supervisado</code></a><br>
+  - <a href="#nonsupML">2.4. Aprendizaje no supervisado</code></a><br>
+  - <a href="#data">2.5. Observaciones acerca de los datos</code></a><br>
+- <a href="#sklearn">3. Introducción a Scikit-Learn</a><br>
+  - <a href="#sklearnG">3.12 Generalidades</a><br>
+  - <a href="#sklearnT">3.2. Tratamiento de datos</a><br>
+    - <a href="#sklearnTT">3.2.1 Datos de entrenamiento y de prueba</a><br>
+    - <a href="#sklearnCT">3.2.2 Conversión de variables categóricas</a><br>
+    - <a href="#sklearnFS">3.2.3 Escalamiento de características</a><br>
+    - <a href="#sklearnPL">3.2.4 Pipeline</a><br>
+- <a href="#regresion">4. Regresión lineal</a><br>
+  - <a href="#simple">4.1 Regresión lineal simple</a><br>
+  - <a href="#multiple">4.2 Regresión lineal multiple</a><br>
+    - <a href="#ridge">4.3.1 Regresión lineal Ridge</a><br>
+    - <a href="#lasso">4.3.2 Regresión lineal Lasso</a><br>
+- <a href="#taller">5. Taller</a><br>
