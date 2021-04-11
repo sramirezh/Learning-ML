@@ -107,3 +107,16 @@ Curso dictado por Sebastian Sanchez y Juan David Botero
 - <a href="#regpol">2. Regresión polinómica y no lineal</a><br>
 - <a href="#redela">3. Redes elásticas</a><br>
 - <a href="#svm">4. Máquinas de soporte vectorial</a><br>
+
+## Sesion 8: Clasification
+
+- <a href="#msel">1. Selección de Modelos.</a><br>
+ - <a href="#mod_val">1.1 Validación del modelo</a><br>
+ - <a href="#bias_var">1.2 Compensación del sesgo/varianza</a><br>
+ - <a href="#val_cur">1.3 Curvas de validación</a><br>
+ - <a href="#lea_cur">1.4 Curvas de aprendizaje</a><br>
+ - <a href="#bstrap">1.5 Bootstrapping.</a><br>
+ - <a href="#g_search">1.6 Grid search.</a><br>
+- <a href="#intro">2. Clasificación.</a><br>
+ - <a href="#svm">2.1. Máquinas de soporte vectorial</code></a><br>
+ - <a href="#reg_log">2.2. Regresión logística.</a><br>
