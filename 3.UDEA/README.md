@@ -108,7 +108,7 @@ Curso dictado por Sebastian Sanchez y Juan David Botero
 - <a href="#redela">3. Redes elásticas</a><br>
 - <a href="#svm">4. Máquinas de soporte vectorial</a><br>
 
-## Sesion 8: Clasification
+## Sesion 8: Clasificacion
 
 - <a href="#msel">1. Selección de Modelos.</a><br>
  - <a href="#mod_val">1.1 Validación del modelo</a><br>
@@ -120,3 +120,18 @@ Curso dictado por Sebastian Sanchez y Juan David Botero
 - <a href="#intro">2. Clasificación.</a><br>
  - <a href="#svm">2.1. Máquinas de soporte vectorial</code></a><br>
  - <a href="#reg_log">2.2. Regresión logística.</a><br>
+
+## Sesion 9: Clasificacion II
+
+- <a href="#met">1. Métricas de Clasificación</a><br>
+  - <a href="#met1">1.1. Tipos de error </a><br>
+  - <a href="#met2">1.2. Datos no balanceados </a><br>
+  - <a href="#met3">1.3. Matriz de confusión </a><br>
+  - <a href="#met4">1.4. Precisión y exhaustividad  </a><br>
+  - <a href="#met5">1.5. Estimación de incertidumbre en clasificadores </a><br>
+- <a href="#knn">2. Algoritmo de knn</a><br>
+- <a href="#nbayes">3. Naive Bayes</a><br>
+  - <a href="#nbayes-clas">3.1 Clasificación Bayesiana</a><br>
+  - <a href="#nbayes-gaussian">3.2 Gaussian naive Bayes</a><br>
+  - <a href="#nbayes-multi">3.3 Multinomial naive Bayes</a><br>
+- <a href="#svm">4. Taller SVM</a><br>
